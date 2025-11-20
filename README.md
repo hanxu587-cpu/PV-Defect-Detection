@@ -1,4 +1,4 @@
- this code is directly related to the manuscript you are currently submitting to The Visual Computer.
+this code is directly related to the manuscript we are currently submitting to The Visual Computer.
  PV Defect Detection
 A deep learning-based project for photovoltaic (PV) panel defect detection using two benchmark datasets: PVEL-AD and PV-Multi-Defect.
 
